@@ -9,3 +9,8 @@ sudo apt-get install libavahi-compat-libdnssd-dev
 
 cd ~
 git clone https://github.com/johnwargo/Seeed-Studio-Relay-Board
+
+sudo apt-get install -y python
+sudo apt-get install -y python3-smbus
+
+#Install Homebridge
