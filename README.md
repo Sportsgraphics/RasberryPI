@@ -1,2 +1,2 @@
-# RasberryPI
+# RaspberryPI
 Post-Install Setup script
